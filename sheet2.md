@@ -1,5 +1,12 @@
-# Question 1
+TOC 
+-----
+* [question 1](https://github.com/Ahmed-Ayman/eecs3-azhar/blob/master/sheet2.md#q1)
+* [question 8](https://github.com/Ahmed-Ayman/eecs3-azhar/blob/master/sheet2.md#q8)
+* [question 9](https://github.com/Ahmed-Ayman/eecs3-azhar/blob/master/sheet2.md#q9)
 
+<a href = 'q1'></a>
+# Question 1
+Explain with the required figures (Data Rate, Channel Capacity, Bandwidth Of Channel, Nyquist Bit Rate)
 - **Data Rate:**
   Transmission rate, also known as data rate, is the number of bits transmitted during
   a period of time divided by that time and is measured in bits per second (bps).
@@ -32,6 +39,8 @@
       - Bandwidth is the bandwidth of the channel.
       - SNR is the Signal to Noise Ratio.
 ------
+<a href = 'q8'></a>
+
 # Question 8
 
 ### Explain in specific points the important functions (jobs) of the following layers:
@@ -110,6 +119,7 @@ Optional!!
  This layer defines the hardware, cabling wiring, power output, pulse rate etc.
 
  ----------------
+<a href = 'q9'></a>
 
 # Question 9
 
