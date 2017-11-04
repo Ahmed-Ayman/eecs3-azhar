@@ -15,6 +15,20 @@
   difference between the lowest and highest frequencies that can pass
   through the channel. Engineers measure analog bandwidth in kilohertz or megahertz.
   
- - **Nyquist Channel Capacity:**
+ - **Nyquist Bit Rate:**
+  The Nyquist bit rate formula defines the theoretical maximum bit rate for a noiseless channel *(Bitrate = 2 x Bandwidth x Log2 L)*
+    - Where, 
+      - Bitrate is the bitrate of the channel in bits per second.
+      - Bandwidth is the bandwidth of the channel.
+      - L is the number of signal levels.
  
- - **shannon channel capacity:**
+ 
+ - **Shannon Channel Capacity:**
+  The Shannon Capacity defines the theoretical maximum bit rate for a noisy channel *(Capacity = bandwidth x log2(1 + SNR))*
+    - Where, 
+      - Capacity is the capacity of the channel in bits per second.
+      - Bandwidth is the bandwidth of the channel.
+      - SNR is the Signal to Noise Ratio.
+ 
+ 
+
